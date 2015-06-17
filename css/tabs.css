@@ -1,0 +1,15 @@
+.panel {
+  display: none;
+}
+
+.panel[aria-hidden="false"] {
+  display: block;
+}
+
+.tabs li {
+  display: inline-block;
+}
+
+[aria-selected="true"] {
+  background-color: red;
+}
