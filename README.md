@@ -1,8 +1,8 @@
-# Javascript accessibility code samples
+# Javascript + jQuery accessibility code samples
 
-Code samples for the Javascript accessibility tutorial.
+Code samples for the Javascript +jQuery accessibility tutorial.
 
-### [☛ Tutorials & videos](http://learn-the-web.algonquindesign.ca/topics/javascript-accessibility/)
+### [☛ Tutorials & videos](http://learn-the-web.algonquindesign.ca/topics/javascript-jquery-accessibility/)
 
 ---
 
